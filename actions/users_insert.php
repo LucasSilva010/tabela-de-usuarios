@@ -8,7 +8,7 @@ $sqlCreate = "INSERT INTO usuarios (nome, email, funcao) VALUES('$name', '$email
    if($conn->query($sqlCreate) === TRUE) {
     header("Location: ../views/users.php");
    } else {
-    $conn->error;
+   header("Location: ../views/users.php");;
    }
 exit;
 ?>
