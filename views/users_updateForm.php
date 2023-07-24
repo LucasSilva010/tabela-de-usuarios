@@ -41,7 +41,7 @@ if(!empty($_GET['id'])) {
 <div class="container">
   <div class="row d-flex align-items-center justify-content-center">
     <div class="col-md-4">
-      <!-- Formulário para registrar usuários -->
+      <!-- Formulário para editar dados de usuário -->
       <form id="updateForm" class="col-md-12" action="../actions/users_edit.php" method="post">
         <div class="form-group">
           <label for="nameInputEdit">Nome do usuário:</label>
