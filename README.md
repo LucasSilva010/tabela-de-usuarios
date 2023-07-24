@@ -1,7 +1,7 @@
 # tabela-de-usuarios
 Desafio de criação de um CRUD simples proposto por https://github.com/dinaerteneto. Este projeto além de exibir uma tabela com registros de usuários armazenados em um banco de dados MySQl, também permite adicionar um novo registro, editar dados de um registro e apagar um registro.  
 
-## Tecnologias utilizadas: 
+## Tecnologias utilizadas 
 Foram utilizadas as tecnologias HTML e o framework Bootstrap para estruturação e estilização da aplicação. 
 Para o processamento de dados, validação de formulários e ações de exibir, inserir, editar e deletar registros, foram usadas as tecnologias JavaScript (validação) e PHP (validação, processamento e ações) 
 ## Instalação
